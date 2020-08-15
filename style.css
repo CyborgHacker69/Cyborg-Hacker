@@ -1,0 +1,16 @@
+h1 {font-family: cursive;text-align: left; outline-color: green; font-size: 45px}
+html {
+	background: no-repeat center fixed;-webkit-background-size: cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size: cover;
+}
+body {
+	background-image: url(venom.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+p {font-size: 20px ; color:		 }
+ul {font-size: 18px ; color :	 ;}
+em {font-family: unset;color: lime ; font-size: 24px}
+a { font-size: 18px ; color: red }
